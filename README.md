@@ -1,12 +1,19 @@
-# Ship-Cargo-Services-
-Using Asp.net and html css
+Cargo Transport Management System
+This project is a comprehensive Cargo Transport Management System designed to streamline operations across various modules including User, Custom, Admin, Indian Warehouse, and USA Warehouse. The system is developed with a focus on robustness, efficiency, and user-friendliness.
 
-First and foremost it is a website for transporting all the cargo from "India" to "USA" only 
+Features Implemented:
+Spearheaded Implementation: Led the implementation of pivotal cargo transport features across five modules.
 
-Here we maintained modules like
-1.Admin
-2.USer
-3.USA warehouser login
-4.India warehouser login
-5.custom login
+User-Friendly Interface: Designed a user-friendly interface to enhance the overall user experience.
 
+Custom Module: Facilitated custom requirements for clients, ensuring flexibility and adaptability.
+
+Admin Module: Empowered administrators with comprehensive control and management functionalities.
+
+Indian Warehouse Module: Provided specialized features tailored for operations in Indian warehouses.
+
+USA Warehouse Module: Designed and integrated features specific to operations in USA warehouses.
+
+Technologies Used:
+Frontend: HTML, CSS, ASP.NET
+Backend: SQL
